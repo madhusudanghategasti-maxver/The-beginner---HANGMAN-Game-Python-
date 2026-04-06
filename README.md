@@ -5,9 +5,15 @@ A simple and interactive Hangman game built to test your word-guessing skills. T
 
 🧠 How It Works
 A random word is selected and displayed as blank spaces.
+
 The player guesses letters one by one.
+
 ✅ Correct guesses reveal the letter in the word.
+
 ❌ Incorrect guesses reduce the remaining attempts and draw the hangman figure.
+
 The game continues until:
+
 The player guesses the word (Win 🎉), or
+
 The hangman is fully drawn (Game Over 💀)
